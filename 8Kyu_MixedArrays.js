@@ -1,5 +1,5 @@
 /***********************************/
-// 7kyu mixed arrays
+// 8kyu mixed arrays
 /***********************************/
 // Input: An array of strings and numbers
 // Output: sum of the nums in the array
